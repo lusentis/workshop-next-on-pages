@@ -26,6 +26,8 @@ As of today, you need to do the following manually:
 
 ## References
 
+Talk (in Italian): <https://www.youtube.com/watch?v=wESngFYjQWA>
+
 Slides: <https://docs.google.com/presentation/d/1UQnAhO4VKu9hst9BBbbsT9LAz_duuJgOVVVvttYHQvI/edit?usp=sharing>
 
 Documentation: <https://b6f0a2e0.cloudflare-docs-7ou.pages.dev/pages/framework-guides/>
