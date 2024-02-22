@@ -26,11 +26,11 @@ As of today, you need to do the following manually:
 
 Please note that:
 
-0. Development is done via `pnpm run dev`; the development environment is not the same as the production environment, deploy frequently to detect issues early.
-1. D1 is in beta and not recommended for production use.
-2. `next-on-pages` is still early stage and might have breaking changes or unexpected behavior.
-3. Cloudflare Pages only supports the edge runtime. You must `export runtime = "edge"` from all your page.tsx files.
-4. Help is available on the dedicated Discord channel on the Cloudflare Dev server.
+1. Development is done via `pnpm run dev`; the development environment is not the same as the production environment, deploy frequently to detect issues early.
+2. D1 is in beta and not recommended for production use.
+3. `next-on-pages` is still early stage and might have breaking changes or unexpected behavior.
+4. Cloudflare Pages only supports the edge runtime. You must `export const runtime = "edge"` from all your page.tsx files.
+5. Help is available on the dedicated Discord channel on the Cloudflare Dev server.
 
 ## References
 
