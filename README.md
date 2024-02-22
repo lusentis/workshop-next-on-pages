@@ -1,7 +1,7 @@
 # Next.js (App Router) on Cloudflare Pages
 
 Example of a Next.js app (App Router) running on Cloudflare Pages.
-[This commit](https://github.com/lusentis/workshop-next-on-pages/commit/4c6ffbb11cfb2b13b8ac6ba907e350e60604add9?diff=split&w=1) contains all the changes needed to run a Next.js App Router app on Cloudflare Pages.
+[This commit](https://github.com/lusentis/workshop-next-on-pages/commit/4c6ffbb11cfb2b13b8ac6ba907e350e60604add9?diff=split&w=1) contains all the changes needed to run a Next.js App Router app on Cloudflare Pages with a D1 database.
 
 > This guide has been created on 2024-02-20 with the latest React Canary and next-on-pages packages. Due to the beta nature of these packages, the information in this guide may be outdated. Please refer to the official documentation for the latest information.
 
