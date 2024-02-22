@@ -34,6 +34,8 @@ Please note that:
 
 ## References
 
+Step-by-step Video (in English + subtitles): <https://www.youtube.com/watch?v=Fcp-Mbvh424>
+
 Talk (in Italian): <https://www.youtube.com/watch?v=wESngFYjQWA>
 
 Slides: <https://docs.google.com/presentation/d/1UQnAhO4VKu9hst9BBbbsT9LAz_duuJgOVVVvttYHQvI/edit?usp=sharing>
