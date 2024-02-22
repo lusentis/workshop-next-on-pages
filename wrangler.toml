@@ -1,0 +1,5 @@
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "pollo-4"
+database_id = "65f0f0dd-ab01-4b7b-ad28-793f45562df7"
+preview_database_id = "DB"
